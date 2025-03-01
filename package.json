@@ -11,7 +11,12 @@
   "dependencies": {
     "@clerk/nextjs": "^6.12.1",
     "@fortawesome/fontawesome-free": "^6.7.2",
+    "@radix-ui/react-progress": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.2",
+    "@schematichq/schematic-components": "^0.4.5",
+    "@schematichq/schematic-react": "^1.2.3",
+    "@schematichq/schematic-typescript-node": "^1.1.9",
+    "@stripe/react-stripe-js": "^3.1.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.476.0",
