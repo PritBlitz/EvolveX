@@ -1,4 +1,3 @@
-import Header from "@/components/Header";
 import SchematicComponent from "@/components/schematic/SchematicComponent";
 
 function ManagePlan() {

@@ -3,7 +3,6 @@
 import Usage from "@/components/Usage";
 import YoutubeVideoDetails from "@/components/YoutubeVideoDetails";
 import { FeatureFlag } from "@/features/Flags";
-import { string } from "@schematichq/schematic-typescript-node/core/schemas";
 import { useParams } from "next/navigation";
 
 function AnalysisPage() {
